@@ -10,3 +10,11 @@ Here, we create some pages using Streamlit app to analyse some data, like:
 - Evaluate Contract to dismiss
 - Player info such as: Age, Height and Weight
 - Present the dataset with some graphical tools
+
+Example 1:
+
+![alt text](img/img1.png)
+
+
+Example 2:
+![alt text](img/img2.png)
